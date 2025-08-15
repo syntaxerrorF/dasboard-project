@@ -4,9 +4,6 @@
 
 ## LINKS:
 
-Lets Connect 
-
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
 [Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/WalmartRetailDataAnalysisTableauDashboard/WalmartRetailDataAnalysis?publish=yes)
 
@@ -57,21 +54,4 @@ https://user-images.githubusercontent.com/124501309/226589583-77c11f60-c51d-4d83
   6. In 2012 Q4 with $510 was the highest quarterly average profit from East region. In 2013 Q3 with $321 was the highest 
      quarterly average profit from Central region. In 2014 Q4 with$383 was the highest quarterly average profit from Central region. 
      In 2015 Q1 with $284 was the highest quarterly average profit from East region.
-
-## NOTE:
-
-I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
-
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
-
-## My Other Projects:
-
-- [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau) 💻
-
-- [Financial Consumer Complaints Data Analysis](https://github.com/gulshang7/Financial-Consumer-Complaints-Data-Analysis-Using-Tableau-Dashboard) 📜
-
-- [KPI Dashboard of Car Sales Opportunities](https://github.com/gulshang7/KPI_Dashboard_of_Car_sales_Win_Loss_Data_Analysis_using_Excel_and_Tableau) 🛰️
-
-- [Github Profile](https://github.com/gulshang7) 🧮
-
-- [Linkedin](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🤝
+\
