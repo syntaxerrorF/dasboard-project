@@ -5,7 +5,6 @@
 ## LINKS:
 
 
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/WalmartRetailDataAnalysisTableauDashboard/WalmartRetailDataAnalysis?publish=yes)
 
 ## PROJECT NAME:
 
